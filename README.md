@@ -1,2 +1,3 @@
-# OTAPI
-OTAPI
+# OrgTrack API (OTAPI)
+
+OTAPI Docs
